@@ -1,0 +1,18 @@
+﻿列表页批量替换（通用）：文件类型 index*.html
+
+首页	替换为	<div class="isDefault"><font color="#ffffff">⇠</font></div>
+上一页	替换为	<div class="isDefault"><font color="#ffffff">Pre</font></div>
+下一页	替换为	<div class="isDefault"><font color="#ffffff">Next</font></div>
+尾页	替换为	<div class="isDefault"><font color="#ffffff">⇢</font></div>
+../../html/	替换为	../
+
+<h1 data-v-59d97c29=""> <div class="isDefault"><font color="#ffffff">⇠</font></div> </h1></a>
+替换为
+<h1 data-v-59d97c29=""> 首页 </h1></a>
+
+==========================================================================================
+后台基础配置：
+PC端 列表页每页9张，模板 wallpaperPC
+
+移动端 列表页每页9张，模板 wallpaperMobile
+==========================================================================================
